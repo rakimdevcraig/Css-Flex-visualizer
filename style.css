@@ -1,4 +1,4 @@
- .boxes{
+ #boxes{
     height:50vh;
     width:100vw;
     display:flex;
@@ -40,7 +40,7 @@ section div:nth-of-type(4){
     background-color: black;
 }
 
-.top-interactivity{
+#flex-direction{
     display: flex;
     justify-content: space-between;
 }
